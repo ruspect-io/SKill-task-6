@@ -3,7 +3,7 @@
 <html>
     <head>
         <title>быстроНовости</title>
-        <link rel="stylesheet" href="css/styyle.css">
+        <link rel="stylesheet" href="style.css">
     </head>
     <body>
         <header>
