@@ -71,3 +71,11 @@
         height: 300px;
         object-fit: cover;
     }
+    article:nth-child(even) {
+        background-color: rgb(188, 247, 211);
+    }
+    
+    
+    article:nth-of-type(1) h2:before, article:nth-of-type(2) h2:before {
+        content: "New "        
+    }
